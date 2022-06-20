@@ -1,1 +1,1 @@
-https://github.com/Zaciant/rsschool-cv/cv
+https://GITHUB-Zaciant.github.io/rsschool-cv/
